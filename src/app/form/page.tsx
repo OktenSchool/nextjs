@@ -6,7 +6,7 @@ const FormPage = () => {
     return (
         <>
 
-            <h2>standart next form</h2>
+            <h2>standard next form</h2>
             <Form action={'/submit'}>
                 <input name="someName"/>
                 <select name="gender" id="gender">
